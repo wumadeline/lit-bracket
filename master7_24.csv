@@ -1,0 +1,31 @@
+StoreID,Store Type,Store Location,Associates per Open HourPre 4/5/2016,Associates per Open HourPost 4/5/2016,Open Time Pre 4/5/2016,Open Time Post 4/5/2016,Close Time Pre 4/5/2016,Close Time Post 4/5/2016,Store Age,Population within 5mi(1000s),Competition within 5mi
+21,Strip Mall,Urban,24,24,7:00,7:00,21:00,19:00,24,12,96
+31,Strip Mall,Urban,24,24,7:00,7:00,21:00,19:00,13,30,1
+71,Strip Mall,Urban,24,24,7:00,7:00,21:00,19:00,21,400,31
+102,Standalone,Suburban,24,24,7:00,7:00,21:00,19:00,21,61,2
+104,Standalone,Urban,24,24,7:00,7:00,21:00,19:00,33,193,8
+116,Standalone,Suburban,24,24,7:00,7:00,21:00,19:00,34,210,14
+155,Standalone,Suburban,24,24,7:00,7:00,21:00,19:00,26,448,31
+173,Standalone,Urban,24,24,7:00,7:00,21:00,19:00,31,264,43
+188,Strip Mall,Suburban,24,24,7:00,7:00,21:00,19:00,21,436,21
+223,Strip Mall,Metropolitan,24,24,7:00,7:00,21:00,19:00,20,11,13
+252,Standalone,Rural,24,24,7:00,7:00,21:00,19:00,18,26,1
+267,Strip Mall,Suburban,24,24,7:00,7:00,21:00,19:00,28,94,3
+281,Strip Mall,Suburban,24,24,7:00,7:00,21:00,19:00,15,17,3
+298,Standalone,Suburban,24,24,7:00,7:00,21:00,19:00,26,217,76
+324,Standalone,Rural,24,24,7:00,7:00,21:00,19:00,12,17,39
+326,Standalone,Urban,24,24,7:00,7:00,21:00,19:00,9,177,12
+333,Standalone,Suburban,24,24,7:00,7:00,21:00,19:00,29,80,51
+344,Strip Mall,Rural,24,24,7:00,7:00,21:00,19:00,20,57,3
+351,Strip Mall,Suburban,24,24,7:00,7:00,21:00,19:00,17,313,9
+353,Standalone,Suburban,24,24,7:00,7:00,21:00,19:00,1,33,5
+378,Standalone,Urban,24,24,7:00,7:00,21:00,19:00,9,14,2
+400,Strip Mall,Urban,24,24,7:00,7:00,21:00,19:00,24,66,33
+412,Strip Mall,Suburban,24,24,7:00,7:00,21:00,19:00,20,233,10
+424,Standalone,Suburban,24,24,7:00,7:00,21:00,19:00,35,124,15
+429,Standalone,Rural,24,24,7:00,7:00,21:00,19:00,19,16,0
+460,Standalone,Suburban,24,24,7:00,7:00,21:00,19:00,10,17,51
+468,Standalone,Urban,24,24,7:00,7:00,21:00,19:00,18,33,4
+473,Standalone,Urban,24,24,7:00,7:00,21:00,19:00,24,321,11
+477,Standalone,Metropolitan,24,24,7:00,7:00,21:00,19:00,40,8,15
+478,Standalone,Suburban,24,24,7:00,7:00,21:00,19:00,35,78,3

@@ -1,0 +1,31 @@
+StoreID,Store Type,Store Location,Associates per Open HourPre 4/5/2016,Associates per Open HourPost 4/5/2016,Open Time Pre 4/5/2016,Open Time Post 4/5/2016,Close Time Pre 4/5/2016,Close Time Post 4/5/2016,Store Age,Population within 5mi(1000s),Competition within 5mi
+12,Strip Mall,Urban,24,26,7:00,7:00,21:00,20:00,9,390,10
+50,Strip Mall,Suburban,24,26,7:00,7:00,21:00,20:00,10,134,6
+75,Standalone,Suburban,24,26,7:00,7:00,21:00,20:00,25,87,4
+98,Standalone,Suburban,24,26,7:00,7:00,21:00,20:00,30,257,42
+163,Strip Mall,Rural,24,26,7:00,7:00,21:00,20:00,25,30,5
+169,Standalone,Rural,24,26,7:00,7:00,21:00,20:00,16,4,6
+207,Standalone,Urban,24,26,7:00,7:00,21:00,20:00,17,268,42
+229,Standalone,Urban,24,26,7:00,7:00,21:00,20:00,10,38,31
+246,Strip Mall,Urban,24,26,7:00,7:00,21:00,20:00,21,480,23
+262,Standalone,Urban,24,26,7:00,7:00,21:00,20:00,5,5,16
+286,Strip Mall,Urban,24,26,7:00,7:00,21:00,20:00,30,60,2
+308,Standalone,Urban,24,26,7:00,7:00,21:00,20:00,32,32,6
+323,Strip Mall,Metropolitan,24,26,7:00,7:00,21:00,20:00,33,110,24
+330,Strip Mall,Urban,24,26,7:00,7:00,21:00,20:00,38,6,1
+337,Strip Mall,Suburban,24,26,7:00,7:00,21:00,20:00,23,365,24
+357,Standalone,Suburban,24,26,7:00,7:00,21:00,20:00,16,8,65
+365,Strip Mall,Rural,24,26,7:00,7:00,21:00,20:00,16,257,16
+374,Strip Mall,Suburban,24,26,7:00,7:00,21:00,20:00,7,73,7
+375,Standalone,Urban,24,26,7:00,7:00,21:00,20:00,13,10,0
+382,Standalone,Suburban,24,26,7:00,7:00,21:00,20:00,30,44,2
+384,Standalone,Urban,24,26,7:00,7:00,21:00,20:00,33,9,2
+393,Standalone,Suburban,24,26,7:00,7:00,21:00,20:00,33,15,0
+398,Strip Mall,Metropolitan,24,26,7:00,7:00,21:00,20:00,40,273,12
+402,Strip Mall,Rural,24,26,7:00,7:00,21:00,20:00,13,316,22
+425,Strip Mall,Suburban,24,26,7:00,7:00,21:00,20:00,34,437,11
+437,Standalone,Suburban,24,26,7:00,7:00,21:00,20:00,27,265,14
+455,Standalone,Rural,24,26,7:00,7:00,21:00,20:00,30,13,11
+471,Standalone,Suburban,24,26,7:00,7:00,21:00,20:00,33,9,1
+472,Standalone,Urban,24,26,7:00,7:00,21:00,20:00,14,18,1
+475,Strip Mall,Urban,24,26,7:00,7:00,21:00,20:00,16,209,76
