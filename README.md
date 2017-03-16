@@ -1,5 +1,10 @@
 # oski-comp
 
+Members:
+Ethan Kuo
+Madeline Wu
+Megan Lin
+Tara Calista
 
 To run edit analysis.ipynb:
 - make sure you get the most up to date version by running `git pull`
