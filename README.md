@@ -1,1 +1,2 @@
 # oski-comp
+Ethan Kuo
