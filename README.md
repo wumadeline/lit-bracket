@@ -1,2 +1,3 @@
-# oski-comp
+# oski-cdmp
 Ethan Kuo
+Megan Lin
